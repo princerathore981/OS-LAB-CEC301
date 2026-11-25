@@ -93,7 +93,6 @@ python3 03_cpu_scheduling/scheduling.py
 
 ## Sample Output
 
-Add a screenshot or sample output for each program here.
 
 ```
 Example:
