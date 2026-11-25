@@ -1,9 +1,13 @@
 # Operating Systems — Practical File
 
 **Course:** CEC301 — Operating Systems
+
 **Program:** B.Tech (CSE) — Third Year
+
 **Language:** Python
+
 **Submitted by:** Prince Rathore
+
 **Roll No.:** 2472170
 
 ---
@@ -57,7 +61,6 @@ os-practical-file/
     └── file_allocation.py
 ```
 
-> Adjust folder and file names to match your actual code.
 
 ## Requirements
 
